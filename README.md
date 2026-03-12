@@ -1,4 +1,4 @@
-# Lista de Exercícios - Unidade 2
+# Lista de Exercícios Unidade 2
 
 Este repositório contém a resolução da lista de exercícios da Unidade 2 da disciplina de Introdução a Programação.
 
